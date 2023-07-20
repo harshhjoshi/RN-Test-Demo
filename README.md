@@ -2,7 +2,17 @@
 
 Screenshots
 
+App Logo
 [https://drive.google.com/file/d/1q127auExdBciqpnXkMSHJS09Gte7xhZz/view?usp=sharing](https://drive.google.com/file/d/1q127auExdBciqpnXkMSHJS09Gte7xhZz/view)
+
+
+# Technlogy Used
+
+- Typescript
+- Third Party Liberaries
+- Packages
+-   Splash Screen
+-   Country Picker
 
 
 # Splash Screen and Login Screen
